@@ -62,6 +62,7 @@ sr.reveal('.about__text', {delay: 500})
 sr.reveal('.about__cv-button', {delay: 600, interval: 200})
 
 /*SCROLL SKILLS*/
+sr.reveal('.skills__description', {})
 sr.reveal('.skills__subtitle', {})
 sr.reveal('.skills__name', {distance: '20px', delay: 50, interval: 100})
 sr.reveal('.skills__img', {delay: 400})
