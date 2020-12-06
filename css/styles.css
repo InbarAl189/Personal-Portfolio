@@ -223,11 +223,8 @@ img {
 .about__img {
   display: flex;
   justify-content: center;
-  padding-top: 1rem;
   width: 120px;
   height: 120px;
-  background-color: var(--first-color);
-  border-radius: 50%;
   overflow: hidden;
 }
 .about__img img {
@@ -245,12 +242,20 @@ img {
   display: block;
   margin-bottom: var(--mb-4);
 }
-.about__social-icon {
-  font-size: 1.4rem;
-  margin: 0 var(--mb-1);
+
+.about__cv-button {
+  font-size: 1rem;
+  background-color: var(--first-color);
+  color: var(--white-color);
+  padding: 0.7rem 2.5rem;
+  border-radius: 0.5rem;
+  border: none;
+  outline: none;
+  cursor: pointer;
 }
-.about__social-icon:hover {
-  color: var(--first-color);
+
+.about__cv-button:hover {
+  background-color: var(--text-color);
 }
 
 /* ===== SKILLS =====*/
