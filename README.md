@@ -9,9 +9,9 @@ Deployment link: https://inbar-personal-portfolio.web.app
 <br>
 ## App Screenshots:<br>
 
-[![home.jpg](https://i.postimg.cc/bvSmxbnt/home.jpg)](https://postimg.cc/R3919WXS) <br>
-[![about.jpg](https://i.postimg.cc/9M3JJMPN/about.jpg)](https://postimg.cc/GBQFpb5k) <br>
-[![skills.jpg](https://i.postimg.cc/sxsKCNNY/skills.jpg)](https://postimg.cc/S21cWDqR) <br>
-[![projects.jpg](https://i.postimg.cc/mkjjLyv0/projects.jpg)](https://postimg.cc/GTBGzGhQ) <br>
-[![contact-footer.jpg](https://i.postimg.cc/0ybnvmcB/contact-footer.jpg)](https://postimg.cc/87gMBF8R)
+[![home.jpg](https://i.postimg.cc/4xD6T0KY/home.jpg)](https://postimg.cc/TKcLVCJx) <br>
+[![about.jpg](https://i.postimg.cc/x8pmppDT/about.jpg)](https://postimg.cc/2Lv3VwSP) <br>
+[![skills.jpg](https://i.postimg.cc/HsjX8mXJ/skills.jpg)](https://postimg.cc/qzVzW9m0) <br>
+[![projects.jpg](https://i.postimg.cc/nc57vWG3/projects.jpg)](https://postimg.cc/LntnSN7P) <br>
+[![contact-footer.jpg](https://i.postimg.cc/nLfDWQ57/contact-footer.jpg)](https://postimg.cc/K1Qjk4mv)
 
