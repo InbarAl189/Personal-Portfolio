@@ -7,10 +7,11 @@ The app is actually my landing page where I present my resume and the projects I
 Deployment link: https://inbar-personal-portfolio.web.app
 <br>
 <br>
-App Screenshots:
-[![home.jpg](https://i.postimg.cc/nLpyT3HD/home.jpg)](https://postimg.cc/dhNNVmZs) <br>
-[![about.jpg](https://i.postimg.cc/HkgWD4Yp/about.jpg)](https://postimg.cc/gngb3hL5) <br>
-[![skills.jpg](https://i.postimg.cc/BbF3RtRL/skills.jpg)](https://postimg.cc/4HXj94fs) <br>
-[![projects.jpg](https://i.postimg.cc/wBBpgwSd/projects.jpg)](https://postimg.cc/v4CjvtYP) <br>
-[![contact-footer.jpg](https://i.postimg.cc/t4CfxYD3/contact-footer.jpg)](https://postimg.cc/BXkMWZrb)
+## App Screenshots:<br>
+
+[![home.jpg](https://i.postimg.cc/bvSmxbnt/home.jpg)](https://postimg.cc/R3919WXS) <br>
+[![about.jpg](https://i.postimg.cc/9M3JJMPN/about.jpg)](https://postimg.cc/GBQFpb5k) <br>
+[![skills.jpg](https://i.postimg.cc/sxsKCNNY/skills.jpg)](https://postimg.cc/S21cWDqR) <br>
+[![projects.jpg](https://i.postimg.cc/mkjjLyv0/projects.jpg)](https://postimg.cc/GTBGzGhQ) <br>
+[![contact-footer.jpg](https://i.postimg.cc/0ybnvmcB/contact-footer.jpg)](https://postimg.cc/87gMBF8R)
 
